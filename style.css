@@ -1,0 +1,12 @@
+body::before{
+    display: block;
+    content:"" ;
+    height: 70px;
+}
+.foto1,
+.foto2, 
+.foto3{
+    height: 250px;
+    margin: 20px;
+    border-radius: 20px;
+}
